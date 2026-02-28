@@ -1,5 +1,13 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "mm69breajt1rh1phshs",
+      "title": "اجتماع عمل",
+      "date": "2026-03-06",
+      "time": "16:00",
+      "createdAt": "2026-02-28T11:48:03.826Z"
+    }
+  ],
   "version": "1.0.0",
   "description": "Personal calendar events storage"
 }
